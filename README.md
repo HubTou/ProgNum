@@ -1,4 +1,4 @@
-# ProgNum - Un programme politique numérique libre, pour tous
+# ProgNum - Un programme politique libre pour le numérique
 🚧 Travail en cours, voir la [liste de tâches](https://github.com/users/HubTou/projects/2)
 ## Objectifs
 * Ce dépôt a pour vocation de **rassembler et structurer quelques idées sur ce que pourrait être une politique publique française en matière de numérique**, tant pour les citoyens, les entreprises et la sphère publique.
